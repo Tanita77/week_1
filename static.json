@@ -1,4 +1,5 @@
 {
-  "headers":
-    "/*": "tanita_77"
+  "headers":{
+    "/*": { "tanita_77":}
+  }
 }
