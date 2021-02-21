@@ -1,5 +1,7 @@
 {
   "headers":{
-    "/*": { "tanita_77":}
+    {
+    "/*": "X-Author":   "tanita_77"
+  }
   }
 }
