@@ -2,7 +2,8 @@
   "headers":{
     
     "/*": {
-      "X-Author":   "tanita_77"
+      "X-Author":   "tanita_77",
+      "Access-Control-Allow-Origin": "*"
   }
   }
 }
